@@ -8,4 +8,4 @@ Add a text on PC
 
 Created a new branch + text into README
 
-Resolve a conflict
+Resolve a conflict on browser
